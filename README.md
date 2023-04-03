@@ -4,7 +4,7 @@ This is currently hosted on Firebase for easy of accessibility - https://swapico
 
 To run this, - download the zip, extract it and run  1. `npm i` to install node_depedencies(here theres only nodemon, which is not mandatory) and 2.`npm start` on the root directory.
 
-To run it locally - You need style.css,app.js,package.json,
+To run it locally - You need style.css,app.js,package.json,index.html
 
 
 Additional possible Implementation:
