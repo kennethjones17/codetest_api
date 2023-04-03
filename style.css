@@ -4,24 +4,25 @@
     margin: auto;
     text-align: center;
     font-family: arial;
-    border: solid brown;
+    border: solid rgb(7, 19, 244);
+    background-color: #eac7c7;
   }
   
   .card h2 {
     font-size: 20px;
-    color: #e90d0d;
+    color: #080808;
     margin-top: 16px;
     margin-bottom: 8px;
   }
   
   .card p {
     font-size: 18px;
-    color: #999;
+    color: #080808;
     margin-bottom: 16px;
   }
   
   .card button {
-    background-color: #4CAF50;
+    background-color: #1b3b8e;
     color: white;
     padding: 12px 24px;
     border: none;
@@ -32,7 +33,7 @@
   }
   
   .card button:hover {
-    background-color: #3e8e41;
+    background-color: #372993;
   }
   
   .mainContainer {
@@ -49,3 +50,8 @@
     width: 50%;
     align-items: center;
   }
+
+  body {
+    background-color: #a4d0e4;
+  }
+  
