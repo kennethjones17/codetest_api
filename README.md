@@ -6,6 +6,9 @@ To run this, - download the zip, extract it and run  1. `npm i` to install node_
 
 To run it locally - You need style.css,app.js,package.json,index.html
 
+Additional details about code:
+
+1. Pagination implementation has been commented out due to a long response wait time, so I am currently on displaying characters from first page. Even though the API call is for first page, there are times of delay for 45-90sec. Please restart server when it happens.
 
 Additional possible Implementation:
 
