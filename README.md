@@ -1,4 +1,4 @@
-This is a basic StarWars API Access Functionality.
+This is a basic StarWars API Access Functionality using Vanilla JavaScript
 
 This is currently hosted on Firebase for easy of accessibility - https://swapicode.web.app/
 
